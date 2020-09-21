@@ -1,0 +1,15 @@
+{
+  "postalcodes": [
+    {
+      "adminCode2": "119",
+      "adminCode1": "NY",
+      "adminName2": "Westchester",
+      "lng": -73.700942,
+      "countryCode": "US",
+      "postalcode": "10504",
+      "adminName1": "New York",
+      "placeName": "Armonk",
+      "lat": 41.136002
+    }
+  ]
+}
